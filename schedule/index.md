@@ -14,7 +14,7 @@ at **Impact Hub Viadukt, Event Space Bogen D**
  - **19:30** Ap&eacute;ro
 
 
-#### ✅ Open Lab Week: from 28th January to 2nd February
+#### ✅ Open Lab Week: from 28th January to 2nd June
 
 at **MechArtLab (6th floor)**
 <br/><a href="https://goo.gl/maps/NcAzJ6os82D2" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
@@ -25,7 +25,7 @@ at **MechArtLab (6th floor)**
 The lab will be open in the afternoons for everyone who needs a place to hack on their projects or simply wants to chat about their progress.
 
 
-## ✅ Hackathon: 3rd February-4th February
+## ✅ Hackathon: 9th June-10th June
 
 at **Impact Hub Viadukt, Event Space Bogen D**
 <br><a href="https://goo.gl/maps/CpsRggdwmUy" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>

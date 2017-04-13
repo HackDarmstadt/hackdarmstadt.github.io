@@ -14,7 +14,7 @@ Short and simple: **Be excellent to each other!**
 
 ## License
 
-The following licensing conditions apply to works created at [Make Zurich 2017](https://makezurich.ch):
+The following licensing conditions apply to works created at [Hack Darmstadt 2017](https://hackdarmstadt.de):
 
   - No transfer of rights: everyone retains the rights to anything he or she has created.
   - Waiver: No one will exercise any rights of exclusivity with respect to information she/he brings in, even if she/he otherwise could exercise such right of exclusivity under the law.
@@ -25,7 +25,7 @@ The following licensing conditions apply to works created at [Make Zurich 2017](
 
 Whenever possible, the teams will work with open data as defined in [The Open Definition](http://opendefinition.org/od/2.1/en/), or with data that will attain this status shortly.
 
-We encourage you to publish any data sources created at [Make Zurich 2017](https://makezurich.ch) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
+We encourage you to publish any data sources created at [Hack Darmstadt 2017](https://hackdarmstadt.de) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
 
 ## Presentation
 

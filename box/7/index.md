@@ -19,7 +19,7 @@ layout: generic
 
 #### **Getting the hardware ready**
 
- 1. Solder headers to the Arduino. [Check here for more details](https://github.com/rac2030/MakeZurich/wiki/Getting-started-with-the-Arduino-Pro-Mini#soldering-headers-to-the-arduino)
+ 1. Solder headers to the Arduino. [Check here for more details](https://github.com/rac2030/HackDarmstadt/wiki/Getting-started-with-the-Arduino-Pro-Mini#soldering-headers-to-the-arduino)
  1. On the back of the FTDI (USB to UART brige), cut the 5V trace and solder the 3V3 jumpers. [Check this detailed photo](../../assets/images/how-to-prepare-ftdi.jpg).
  1. Connect FTDI (USB to UART brige) to the Arduino Pro Mini. The connections [should look like this](../../assets/images/how-to-connect.jpg).
  1. Plug the Arduino Pro Mini and the RN2483 into the breadboard.
@@ -77,7 +77,7 @@ GND                  | GND
 
 [![Arduino Pro Mini pinout](../../assets/images/arduino-pinout.png "Arduino Pro Mini pinout")](../../assets/images/arduino-pinout-large.png)
 
-Tutorials and lots of info specific for this event is popping up in [rac2030's github repo](https://github.com/rac2030/MakeZurich/wiki#tutorials-or-logs).
+Tutorials and lots of info specific for this event is popping up in [rac2030's github repo](https://github.com/rac2030/HackDarmstadt/wiki#tutorials-or-logs).
 
 ### Sensors
 
@@ -96,7 +96,7 @@ Tutorials and lots of info specific for this event is popping up in [rac2030's g
     * [Arduino devices](https://www.thethingsnetwork.org/docs/devices/arduino/)
     * [Forum](https://www.thethingsnetwork.org/forum/)
  * Hackathon community platform:
-    * [Hackathon projects](https://now.makezurich.ch)
+    * [Hackathon projects](https://now.hackdarmstadt.de)
     * [Slack team](https://ttn-ch.slack.com/) (sign up here [here](https://ttn-ch.herokuapp.com/))
  * Various posts/articles:
     * [How to build your first TTN node](https://www.thethingsnetwork.org/forum/t/how-to-build-your-first-ttn-node-arduino-rn2483/1574)
@@ -111,5 +111,5 @@ Available on-site during kick-off.
 ## Are you stuck?
 
  1. Ask on our [Slack team](https://ttn-ch.slack.com/)! (sign up here [here](https://ttn-ch.herokuapp.com/)).
- 1. Check [this cool wiki being developed by Hackathon participants](https://github.com/rac2030/MakeZurich/wiki).
+ 1. Check [this cool wiki being developed by Hackathon participants](https://github.com/rac2030/HackDarmstadt/wiki).
  1. Join us at the MechArtLab everyday between 16:00 and 22:00.

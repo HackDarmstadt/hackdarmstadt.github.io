@@ -19,7 +19,7 @@ layout: generic
 
 #### **Getting the hardware ready**
 
- 1. Solder headers to the Arduino. [Check here for more details](https://github.com/rac2030/MakeZurich/wiki/Getting-started-with-the-Arduino-Pro-Mini#soldering-headers-to-the-arduino)
+ 1. Solder headers to the Arduino. [Check here for more details](https://github.com/rac2030/HackDarmstadt/wiki/Getting-started-with-the-Arduino-Pro-Mini#soldering-headers-to-the-arduino)
  1. On the back of the FTDI (USB to UART brige), cut the 5V trace and solder the 3V3 jumpers. [Check this detailed photo](../../assets/images/how-to-prepare-ftdi.jpg).
  1. Connect FTDI (USB to UART brige) to the Arduino Pro Mini. The connections [should look like this](../../assets/images/how-to-connect.jpg).
  1. Plug the Arduino Pro Mini and the RN2483 into the breadboard.

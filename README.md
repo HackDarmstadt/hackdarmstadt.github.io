@@ -1,4 +1,4 @@
-# Make Zurich
+# Hack Darmstadt
 
 Civic tech and LoRaWAN hackathon for a better city.
 

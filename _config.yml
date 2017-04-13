@@ -1,17 +1,17 @@
 # Site settings
-title: Make Zurich 2017
-email: info@makezurich.ch
-description: Make Zurich, Civic Tech and LoRaWAN Hackathon for a better city
+title: Hack Darmstadt 2017
+email: info@hackdarmstadt.de
+description: Hack Darmstadt, Civic Tech and LoRaWAN Hackathon for a better city
 baseurl: ''
-url: https://makezurich.ch
+url: https://hackdarmstadt.de
 
 # Logo settings
 logo-image-url:
 font-awesome-icon-logo:
 
 # Social settings
-github_username: make-zurich
-twitter_username: makezurich
+github_username: hackdarmstadt
+twitter_username: hackdarmstadt
 facebook_URL:
 instagram_username:
 
