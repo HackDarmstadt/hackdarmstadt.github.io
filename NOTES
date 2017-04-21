@@ -1,0 +1,15 @@
+
+1. 
+Lokal in _config.yml eintragen (nicht einchecken!)
+# deployment
+host: 0.0.0.0
+port: 4000
+
+2. 
+copy envfile to .env
+
+2.
+docker build -t hackdarmstadt:test .
+
+3. 
+docker run -p 4000:4000 --name hackdarmstadt -v <your_path>:/hackdarmstadt --env-file=.env -d hackdarmstadt:test
