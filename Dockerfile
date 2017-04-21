@@ -17,4 +17,4 @@ WORKDIR /hackdarmstadt
 RUN bundle install --retry=3 --jobs=8
 
 ENTRYPOINT ["bundle", "exec"]
-CMD ["jekyll", "serve --incremental"]
+CMD ["jekyll", "serve"]
