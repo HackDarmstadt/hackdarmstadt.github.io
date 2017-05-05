@@ -4,7 +4,7 @@ lang: en
 layout: generic
 ---
 
-#### ✅ Kick-off: Friday, 2nd June
+## Kick-off: Friday, 2nd June
 
 at **at Rheinstrasse 97, 64295 Darmstadt (Office BSI Business Systems Integration)**
 <br><a href="https://goo.gl/maps/ccKso8grDP72" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
@@ -13,7 +13,7 @@ at **at Rheinstrasse 97, 64295 Darmstadt (Office BSI Business Systems Integratio
  - **18:00** Intro, challenge presentations and Q&A sessions (live stream)
  - **19:30** Drinks & Snacks
 
-## ✅ Hackathon: Friday 9th June - Saturday 10th June
+## Hackathon: Friday 9th June - Saturday 10th June
 
 at **at Rheinstrasse 97, 64295 Darmstadt (Office BSI Business Systems Integration)**
 <br><a href="https://goo.gl/maps/ccKso8grDP72" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
