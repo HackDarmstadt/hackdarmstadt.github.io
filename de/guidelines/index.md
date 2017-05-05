@@ -6,7 +6,7 @@ layout: generic_de
 
 ## Team
 
-Ein Team sollte aus mindestens zwei und maximal acht Personen bestehen.
+Ein Team sollte aus mindestens zwei und maximal fünf Personen bestehen.
 
 ## Verhaltensregeln
 

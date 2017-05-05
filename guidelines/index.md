@@ -6,7 +6,7 @@ layout: generic
 
 ## Team
 
-A team should consist of at least two and a maximum of eight people.
+A team should consist of at least two and a maximum of five people.
 
 ## Code of Conduct
 
