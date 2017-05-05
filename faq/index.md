@@ -42,4 +42,4 @@ We recommend to use public transport to get to the event. BSI Business Systems I
 
 #### **How can I contact the organizer with any questions?**
 
-Get in touch with us via email <a href="mailto:info@hackdarmstadt.de">info@hackdarmstadt.de</a> or via twitter <a href="https://twitter.com/makezurich">@makezurich</a>.
+Get in touch with us via email <a href="mailto:info@hackdarmstadt.de">info@hackdarmstadt.de</a> or via twitter <a href="https://twitter.com/hackdarmstadt">@hackdarmstadt</a>.
