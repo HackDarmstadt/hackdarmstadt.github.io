@@ -4,10 +4,6 @@ lang: en
 layout: generic
 ---
 
-#### **Help! How do I get started with my hardware kit?**
-
-Check out the [Getting Started guide](/start/).
-
 #### **I have never been to a hackathon before, can I still attend?**
 
 Of course! Check out [this great post](https://forum.schoolofdata.ch/t/make-the-most-of-hackathon-season/) by [Oleg](https://datalets.ch/) about getting started with hackathons.
@@ -30,23 +26,19 @@ Bring your laptop and your ideas on how to improve your city!
 
 If you want to bring your own hardware (microcontroller, sensors, etc), designs, enclosures, or whatever to help you create a solution for a challenge, feel free to do so. The kits provided are 3v3 in case you want to prepare something upfront.
 
-#### **Do we get to keep the hardware provided?**
-
-**Yes**, with a tiny caveat. Teams will get to keep the hardware kit they receive, except one specific sensor provided by Keller Druck AG used in the *Groundwater meter challenge* that needs to be returned at the end of the event. All the other hardware is for the team to bring home.
-
 #### **Where can I get in touch with other participants?**
 
-If you haven't done it already, sign up for our [Slack team](https://ttn-ch.herokuapp.com). A large part of communication during the event will happen there!
+If you haven't done it already, sign up for our [Slack team](https://hack-darmstadt.slack.com). A large part of communication during the event will happen there!
 
 #### **What is the exact schedule?**
 
-Check the [schedule here](/schedule), we will keep updating it with more details in the next few days.
+The schedule is work in progress and will be published soon.
 
 #### **What are my transportation options for getting to and from the event?**
 
-We recommend to use public transport to get to the event. Impact Hub Viadukt is located only a few steps away from [Darmstadt Hardbr&uuml;cke](http://online.fahrplaninfo.zvv.ch/frame_hst3.php?lang=de&hstNr=13029&hstName=) train station, which is heavily connected by the train, tram and bus network.
+We recommend to use public transport to get to the event. BSI Business Systems Integration Deutschland GmbH is located only a few steps away from [Darmstadt Main Station](https://www.rmv.de), which is heavily connected by the train, tram and bus network.
 
-<img width="100%" src="https://maps.googleapis.com/maps/api/staticmap?center=Viaduktstrasse+93,+8005+Darmstadt&zoom=14&scale=2&size=600x200&maptype=roadmap&key=AIzaSyDR8Y88GiRSWmZn0heNaNPVhmYkyOpfqjU&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7CImpact+Hub+Viadukt,+Viaduktstrasse+93,+8005+Darmstadt" alt="Google Map of Viaduktstrasse 93, 8005 Darmstadt">
+<img width="100%" src="https://maps.googleapis.com/maps/api/staticmap?center=Rheinstraße+97,+64295+Darmstadt&zoom=15&scale=2&size=600x200&maptype=roadmap&key=AIzaSyDR8Y88GiRSWmZn0heNaNPVhmYkyOpfqjU&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7CBSI+Business+Systems+Integration+Deutschland+GmbH,+Rheinstraße+97,+64295+Darmstadt" alt="Google Map of Viaduktstrasse 93, 8005 Darmstadt">
 
 #### **How can I contact the organizer with any questions?**
 
