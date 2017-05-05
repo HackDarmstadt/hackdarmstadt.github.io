@@ -36,7 +36,7 @@ If you haven't done it already, sign up for our [Slack team](https://hack-darmst
 
 #### **What is the exact schedule?**
 
-The schedule is work in progress and will be published soon.
+Check the [schedule here](/de/schedule), we will keep updating it with more details in the next few days.
 
 #### **What are my transportation options for getting to and from the event?**
 
