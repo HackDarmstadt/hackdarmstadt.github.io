@@ -4,7 +4,7 @@ lang: en
 layout: generic
 ---
 
-## Kick-off: Friday, 2nd June
+## (Virtual) Kick-off: Friday, 2nd June
 
 at **at Rheinstrasse 97, 64295 Darmstadt (Office BSI Business Systems Integration)**
 <br><a href="https://goo.gl/maps/ccKso8grDP72" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
